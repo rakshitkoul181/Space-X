@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+
+.App {
+  width: 100%;
+  background-color: #EEE;
+}
+
+h1 {
+  margin-left: 20px;
+}
+
+h3 {
+  padding: 10px;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  h1 {
+    margin-left: 10px;
+  }
+}
